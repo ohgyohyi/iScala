@@ -1,2 +1,2 @@
 # iScala
-Scala勉強会
+Scala勉強
